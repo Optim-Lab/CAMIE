@@ -230,3 +230,9 @@ If you use this code or our results in your research, please cite our paper:
 - CAMIE is a **post-hoc** explainer and does **not** retrain the original multi-task predictor.
 - The pseudo target is derived from the predictor's assay-specific motif-removal response, so CAMIE explanations depend on the behavior of the frozen backbone.
 - Explanation resolution is limited by the predefined motif candidates produced by BRICS decomposition.
+
+---
+
+## Acknowledgement
+
+This repository was developed with support from the 서울시립대학교 데이터 사이언스 플러스 차세대 융합인재 양성사업단 - http://dsplus.uos.ac.kr/

@@ -63,7 +63,6 @@ CAMIE/
 │   ├── chemutils.py            # RDKit decomposition helpers
 │   └── utils.py                # Generic utilities
 │
-├──
 └── environment.yml             # Conda environment configuration
 ```
 

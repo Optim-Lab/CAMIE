@@ -208,22 +208,6 @@ assets/baselines/fidelity_f1_single/seed0/mse/compact_fidelity_f1_summary_mse.cs
 
 ---
 
-## Citation
-
-If you use this code or our results in your research, please cite our paper:
-```bash
-@inproceedings{yoon2026camie,
-  title={Context-Aware Subgraph Explanations for Multi-Task GNNs},
-  author={Yoon, Yejin and Lim, Jaesung and Choi, Jinhee and Jeon, Jong-June},
-  booktitle={Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
-  year={2026},
-  publisher={ACM},
-  doi={10.1145/3799682.3840994}
-}
-```
-
----
-
 ## Notes
 
 - CAMIE is a **post-hoc** explainer and does **not** retrain the original multi-task predictor.
